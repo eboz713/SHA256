@@ -1,0 +1,3 @@
+﻿  main.cpp
+c:\users\erik boswell\source\repos\sha-256\sha-256\main.cpp(189): warning C4101: 'hashd': unreferenced local variable
+  SHA-256.vcxproj -> C:\Users\Erik Boswell\source\repos\SHA-256\Debug\SHA-256.exe
